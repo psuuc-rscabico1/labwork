@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697260247143",
+    "project_id": "cabicoraymart-labwork",
+    "storage_bucket": "cabicoraymart-labwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697260247143:android:080a11019b9f9ed8446cc2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRrK4N6XHlom3bmpzAv0Bfx8s3kDnVqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
